@@ -122,11 +122,13 @@ void setup() {
     DigiKeyboard.sendKeyStroke(KEY_TAB);
     DigiKeyboard.delay(100);
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
-    DigiKeyboard.delay(5000);
+    DigiKeyboard.delay(700);
 
     // Close settings (Alt+F4)
     DigiKeyboard.sendKeyStroke(KEY_F4, MOD_ALT_LEFT);
-    DigiKeyboard.delay(1000);
+    DigiKeyboard.delay(100);
+    DigiKeyboard.sendKeyStroke(KEY_F4, MOD_ALT_LEFT);
+    DigiKeyboard.delay(100);
 
 }
 
