@@ -6,16 +6,15 @@ void setup() {
     // Open browser (Win+R -> Edge -> Enter)
     DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
     DigiKeyboard.delay(500);
-    DigiKeyboard.print("https://drive.google.com/file/<IMPORTANT MUST REPLACE DRIVE LINK HERE, IT NEEDS TO BE THE /view LINK IN TOP LEFT OF DOWNLOAD SCREEN ");
+    DigiKeyboard.print("https://drive.google.com/file/d/1mtiakRFHga3wlYFHy7wO-DtiQwu9PW88/view");
     DigiKeyboard.delay(100);
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
-    DigiKeyboard.delay(10000);
-
-    //Dowloads your file
+    DigiKeyboard.delay(3000);
     DigiKeyboard.sendKeyStroke(KEY_TAB);
     DigiKeyboard.delay(100);
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
-    DigiKeyboard.delay(10000);
+    DigiKeyboard.delay(3000);
+    // Navigate to Google Drive link (replace with actual link)
 
     // Close browser (Alt+F4)
     DigiKeyboard.sendKeyStroke(KEY_F4, MOD_ALT_LEFT);
@@ -78,24 +77,41 @@ void setup() {
 
     //find and select the file
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
-    DigiKeyboard.delay(1000);
+    DigiKeyboard.delay(100);
     DigiKeyboard.sendKeyStroke(KEY_TAB);
-    DigiKeyboard.delay(1000);
-    DigiKeyboard.sendKeyStroke(KEY_ENTER);
-    DigiKeyboard.delay(1000);
-    DigiKeyboard.sendKeyStroke(KEY_D);
-    DigiKeyboard.delay(1000);
-    DigiKeyboard.sendKeyStroke(KEY_D);
-    DigiKeyboard.delay(1000);
-    DigiKeyboard.sendKeyStroke(KEY_TAB);
-    DigiKeyboard.delay(1000);
-    DigiKeyboard.sendKeyStroke(KEY_ENTER);
-    DigiKeyboard.delay(1000);
-    DigiKeyboard.print("Among Us Yellow Twerk Animated--cursor--SweezyCursors.ani");
-    DigiKeyboard.delay(100);    
+    DigiKeyboard.delay(100);
+    DigiKeyboard.sendKeyStroke(KEY_DOWN_ARROW);
+    DigiKeyboard.delay(50);
+    DigiKeyboard.sendKeyStroke(KEY_DOWN_ARROW);
+    DigiKeyboard.delay(50);
+    DigiKeyboard.sendKeyStroke(KEY_DOWN_ARROW);
+    DigiKeyboard.delay(50);
+    DigiKeyboard.sendKeyStroke(KEY_DOWN_ARROW);
+    DigiKeyboard.delay(50);
+    DigiKeyboard.sendKeyStroke(KEY_DOWN_ARROW);
+    DigiKeyboard.delay(50);
+    DigiKeyboard.sendKeyStroke(KEY_DOWN_ARROW);
+    DigiKeyboard.delay(50);
+    DigiKeyboard.sendKeyStroke(KEY_DOWN_ARROW);
+    DigiKeyboard.delay(50);
+    DigiKeyboard.sendKeyStroke(KEY_DOWN_ARROW);
+    DigiKeyboard.delay(50);
+    DigiKeyboard.sendKeyStroke(KEY_DOWN_ARROW);
+    DigiKeyboard.delay(50);
+    DigiKeyboard.sendKeyStroke(KEY_DOWN_ARROW);
+    DigiKeyboard.delay(50);
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
     DigiKeyboard.delay(50);
-    DigiKeyboard.delay(7000);
+    DigiKeyboard.sendKeyStroke(KEY_TAB);
+    DigiKeyboard.delay(50);
+    DigiKeyboard.sendKeyStroke(KEY_ENTER);
+    DigiKeyboard.delay(100);
+    DigiKeyboard.print("mousereplaceme");
+    DigiKeyboard.delay(100);    
+    DigiKeyboard.sendKeyStroke(KEY_ENTER);
+    
+    DigiKeyboard.delay(50);
+    DigiKeyboard.delay(1000);
     
 
     //apply change
