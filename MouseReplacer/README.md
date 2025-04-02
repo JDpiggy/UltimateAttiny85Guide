@@ -1,4 +1,4 @@
-# Mouse image replacer
+# Mouse pointer image file replacer
 
 ### Description:
 
