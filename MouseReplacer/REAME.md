@@ -18,5 +18,4 @@ For the link to be accessed and opened properly you must do several things
 </p>
 4: click the red circle in the screenshot, Share the file to everyone with the link, and copy the link from the option in the red circle<br>
 
-# DISCLAIMER
-The code provided in this post is for educational and informational purposes only. It is intended to demonstrate technical concepts and should only be used in ethical and legal applications. The author assumes no responsibility for any misuse, harm, or legal consequences resulting from the use of this code. By using or modifying this code, you agree that you are solely responsible for ensuring compliance with all applicable laws and regulations. The author disclaims any liability for damages, losses, or legal actions arising from improper or malicious use. Use at your own risk.
+
