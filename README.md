@@ -1,4 +1,11 @@
+<p align="center">
+<a href="https://ibb.co/9mnNs5b3"><img src="https://i.ibb.co/1YZL8WrJ/p-align-center-img-src-httpsi-ibb-coj-Z2wv-X0-NEWEV-AT-png-width-172-height-123-p-1.png" alt="p-align-center-img-src-httpsi-ibb-coj-Z2wv-X0-NEWEV-AT-png-width-172-height-123-p-1" border="0"></a>
+</p>
+
+
 # Attiny85 Awesome Payloads
-Awesome payloads are coded here!
+Awesome payloads i've coded are shared here! (made for Arduino IDE)
+I hope you like, and if not tell me what needs fixing.
 # DISCLAIMER
 The code provided in this post is for educational and informational purposes only. It is intended to demonstrate technical concepts and should only be used in ethical and legal applications. The author assumes no responsibility for any misuse, harm, or legal consequences resulting from the use of this code. By using or modifying this code, you agree that you are solely responsible for ensuring compliance with all applicable laws and regulations. The author disclaims any liability for damages, losses, or legal actions arising from improper or malicious use. Use at your own risk.
+
