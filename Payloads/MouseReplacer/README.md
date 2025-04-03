@@ -5,7 +5,7 @@
 **made for:**<br>
 This was designed for the ATtiny85 for Windows 10<br>
 
-#### Mouse_Changer.ino:<br>
+#### MouseReplacer(code).ino:<br>
 This navigates to a link you specify* then downloads the file and closes the tab. Then it opens settings, then mouse settings, then additional mouse settings, then navigates to the pointers tab, browses, replaces the mouse image with your own, and then closes settings.<br>
 
 #### *Your drive file link:<br>
