@@ -6,7 +6,7 @@ void setup () {
 DigiKeyboard.delay (2000) ;
 DigiKeyboard. sendKeyStroke (KEY_R, MOD_GUI_LEFT) ;
 DigiKeyboard.delay (600) ;
-DigiKeyboard.print ("https://docs.google.com/document/d/18gUosJRUjPFKlEvTRvxm5GSPT7CdFYkdB4JeuGEV1ec/edit?usp=sharing");
+DigiKeyboard.print ("INSERT FILE LINK HERE");
 DigiKeyboard.delay (100) ;
 DigiKeyboard. sendKeyStroke (KEY_ENTER) ;
 DigiKeyboard.delay (2000) ;
