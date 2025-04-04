@@ -22,7 +22,10 @@ Firstly you need to dowload the ATtiny85 drivers so that you can put them on the
 <a href="https://ibb.co/XfRbVzL8"><img src="https://i.ibb.co/JWJKCztQ/Untitled-design-1.png" alt="Digistump.Drivers.zip" border="0"></a>
 </p>
  Now open your files, then go to dowloads and unzip/extract the driver folder. Then you want to look through the folder until you see "DPinst". Run it by double-clicking and then following it's instructions. Then you're done!
+<p align="center">
 <a href="https://ibb.co/7tfBwtzv"><img src="https://i.ibb.co/DfJmxfb4/Untitled-design-2.png" alt="Untitled-design-2" border="0"></a>
+ </p>
+
 ### Put the drivers on the Device
 To put these drivers on your ATtiny85, go back to device manager. Find the unkown device with the yellow triangle again. Then right click on it. Now select update drivers or install drivers, either is fine. It will ask if you want it to search automatically for drivers, or if you want to browse and manually pick the drivers. Select "browse my computer for drivers". Now locate the Folder  that you unzipped earlier and pick it. Once you return to the Device manager window make sure that "include subfolders" is checked so that all the driver files are used. Then select to put the drivers onto it. If done correctly, when you close and Re-open task manager there should be a new category called "libUSB-Win32 Devices".
 
