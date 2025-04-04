@@ -2,7 +2,8 @@
 <a href="https://ibb.co/9mnNs5b3"><img src="https://i.ibb.co/1YZL8WrJ/p-align-center-img-src-httpsi-ibb-coj-Z2wv-X0-NEWEV-AT-png-width-172-height-123-p-1.png" alt="p-align-center-img-src-httpsi-ibb-coj-Z2wv-X0-NEWEV-AT-png-width-172-height-123-p-1" border="0"></a>
 </p>
 
-
+# Attiny85 Awesome Payloads
+I spent over 6 hours trying to setup andtroubleshoot my ATtiny85. I don't think anyone should have to go through that, so I am making a full guide to setting up your ATtiny85 so it should take like 10 miniutes.
 # Attiny85 Awesome Payloads
 Awesome payloads i've coded are shared here! (made for Arduino IDE)
 I hope you like, and if not tell me what needs fixing.
