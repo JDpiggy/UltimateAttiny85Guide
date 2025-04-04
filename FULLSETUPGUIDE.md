@@ -1,7 +1,7 @@
-# Full Setup guide
+# Full Setup guide (for Windows)
 
 ## Making sure your computer knows it's plugged in
-I know this sounds silly but your computer likely doesn't even recognize the device. Firstly take a peek at the USB ports on your computer, a great indication that your computer is not going to recognize the ATtiny85. a blue thingy inside the USB port means USB 3.0, a red one means 3.1 and a black one means 2.0. To my knowledge the ATtiny Open the windows menu, then search for device manager
+I know this sounds silly but your computer likely doesn't even recognize the device. A great indication of whether or not your computer going to recognize the ATtiny85 is the USB port that you plug your device into. a blue thingy inside the USB port means USB 3.0, a red one means USB 3.1, and a black one means 2.0 (reference image below). Unfortunately to my knowledge the ATtiny85 is only recognized in a USB 2.0 port. If you don't have a device with USB 2.0, you unfortunatley have to buy a USB 3.0 to 2.0 cable or adapter. However, you might just have a USB to USB cord in your house that works (I didn't but a friend did so that was great). Open the windows menu, then search for device manager
 
 **made for:**<br>
 This was designed for the ATtiny85 for Windows <br>
